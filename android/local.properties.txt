@@ -1,0 +1,5 @@
+sdk.dir=/home/mario/Android/Sdk
+flutter.sdk=/home/mario/flutter
+flutter.buildMode=debug
+flutter.versionName=1.0.5
+flutter.versionCode=5

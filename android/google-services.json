@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027356667626",
+    "firebase_url": "https://qrscaner-3b345.firebaseio.com",
+    "project_id": "qrscaner-3b345",
+    "storage_bucket": "qrscaner-3b345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027356667626:android:9054420336f21517067193",
+        "android_client_info": {
+          "package_name": "com.desarrolloflutter.restaurant_menu_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027356667626-e4h25l6h72dubknua1gmqt4t8grepg3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desarrolloflutter.restaurant_menu_scanner",
+            "certificate_hash": "b58e20649cede44ebc9543ddecb9df0b31de6b3f"
+          }
+        },
+        {
+          "client_id": "1027356667626-2j3kvesds3heto65h8sdgf4lr8iicoqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3k2xVNFxp6mq5YDepEH9ttqCKGAej18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027356667626-2j3kvesds3heto65h8sdgf4lr8iicoqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
