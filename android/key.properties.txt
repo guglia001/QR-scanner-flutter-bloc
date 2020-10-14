@@ -1,4 +1,0 @@
-storePassword=mario266
-keyPassword=mario266
-keyAlias=key
-storeFile=key.jks
